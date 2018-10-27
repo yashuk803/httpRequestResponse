@@ -1,0 +1,13 @@
+{
+    "name": "ash/unit-testing",
+    "authors": [
+        {
+            "name": "Andrew Shpota",
+            "email": "a.shpota@owox.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7.3"
+    }
+}
